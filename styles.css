@@ -1,0 +1,22 @@
+/* Style all <h1> elements */
+h1 {
+    font-size: 2em;
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+/* Style all <p> elements */
+p {
+    line-height: 1.6;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Style elements with the class 'tweet' */
+.tweet {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
